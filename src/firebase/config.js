@@ -4,12 +4,12 @@ import 'firebase/auth';
 import 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyAPJv_bLsNnmcMWPYR5EsHxac0yeOTKnxo',
-  authDomain: 'song-playlist-by-daniel.firebaseapp.com',
-  projectId: 'song-playlist-by-daniel',
-  storageBucket: 'song-playlist-by-daniel.appspot.com',
-  messagingSenderId: '152810595481',
-  appId: '1:152810595481:web:9835c6d55ea1c7cbf88408',
+  apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+  authDomain: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+  projectId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+  storageBucket: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+  messagingSenderId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+  appId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
 };
 
 // init firebase
